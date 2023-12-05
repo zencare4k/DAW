@@ -27,3 +27,5 @@ A continuación se detallan algunos ejemplos de las restricciones presentes en e
 - `filename.txt`: Ignora un archivo específico llamado `filename.txt`.
 - `*.log`: Excluye todos los archivos con la extensión `.log`.
 - `/directoryname/`: Ignora un directorio completo llamado `directoryname` y todos sus contenidos.
+# ¿Qué es Git?
+Git es un sistema de control de versiones distribuido, lo que significa que un clon local del proyecto es un repositorio de control de versiones completo. Estos repositorios locales plenamente funcionales permiten trabajar sin conexión o de forma remota con facilidad. Los desarrolladores confirman su trabajo localmente y, a continuación, sincronizan la copia del repositorio con la del servidor. Este paradigma es distinto del control de versiones centralizado, donde los clientes deben sincronizar el código con un servidor antes de crear nuevas versiones.
